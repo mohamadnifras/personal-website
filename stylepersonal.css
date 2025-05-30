@@ -242,6 +242,9 @@ section.skill {
 .protfolio {
     background: var(--snd-bg-color);
 }
+.protfolio-link{
+   color: white;
+}
 .protfolio h2 {
     margin-bottom: 4rem;
 }
